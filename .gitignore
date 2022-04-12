@@ -41,3 +41,6 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+#Data files that are too big
+yellow_tripdata*.csv

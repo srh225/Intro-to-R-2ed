@@ -59,3 +59,8 @@ for (i in 1:n) {
   } else {}
 }
 
+for (i in 1:n){
+  if(name[i]=="John"){
+    print(age[i])
+  }else{}
+}
